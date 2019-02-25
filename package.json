@@ -1,0 +1,14 @@
+{
+  "name": "basic_show",
+  "version": "1.0.0",
+  "description": "far away the mystery mountains rise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emmeisoft",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
